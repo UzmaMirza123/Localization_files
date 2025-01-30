@@ -1,0 +1,105 @@
+{
+    "statementModel": {
+        "title": "Vyhlásenie o rovnosti",
+        "complianceStatus": "Stav súladu",
+        "complianceText1": "Veríme, že internet by mal byť dostupný a prístupný pre všetkých a zaväzujeme sa poskytovať webovú stránku, ktorá je prístupná čo najširšiemu publiku bez ohľadu na schopnosti.",
+        "complianceText2": "Aby sme to dosiahli, snažíme sa čo najprísnejšie dodržiavať pokyny pre prístupnosť webového obsahu (WCAG) 2.1 na úrovni AA od World Wide Web Consortium (W3C). Tieto pokyny vysvetľujú, ako urobiť webový obsah prístupným pre ľudí so širokým spektrom postihnutí. Dodržiavanie týchto pokynov nám pomáha zabezpečiť, že webová stránka je prístupná pre nevidiacich, osoby s pohybovými a zrakovými postihnutiami, kognitívnymi poruchami a ďalšie.",
+        "complianceText3": "Táto webová stránka využíva rôzne technológie, ktorých cieľom je, aby bola prístupná čo najviac v každom čase. Používame rozhranie pre prístupnosť, ktoré umožňuje osobám so špecifickými postihnutiami prispôsobiť užívateľské rozhranie (UI) a navrhnúť ho podľa svojich osobných potrieb.",
+        "complianceText4": "Okrem toho táto webová stránka používa aplikáciu založenú na umelej inteligencii, ktorá beží na pozadí a neustále optimalizuje jej úroveň prístupnosti. Táto aplikácia opravuje HTML na stránke, prispôsobuje jej funkčnosť a správanie pre čítačky obrazovky používané nevidiacimi používateľmi a pre klávesové funkcie používané osobami s pohybovým postihnutím.",
+        "complianceText5": "Ak chcete kontaktovať správcu webovej stránky, použite formulár na webovej stránke",
+        "ariaAttributes": "Naša webová stránka implementuje technológiu ARIA (Accessible Rich Internet Applications) spolu s rôznymi zmenami správania, aby sa zabezpečilo, že nevidiaci používatelia, ktorí navštívia stránku s čítačkou obrazovky, môžu čítať, rozumieť a užívať si funkcie stránky. Hneď ako používateľ s čítačkou obrazovky vstúpi na vašu webovú stránku, okamžite dostane výzvu na vstup do profilu čítačky obrazovky, aby mohol efektívne prehliadať a používať vašu webovú stránku. Tu je, ako naša stránka pokrýva niektoré z najdôležitejších požiadaviek čítačky obrazovky:",
+        "screenReaderOptimization": "Optimalizácia čítačky obrazovky:",
+        "screenReaderText": "Prevádzkujeme proces, ktorý sa učí komponenty stránky zhora nadol, aby sme zabezpečili nepretržitý súlad aj pri aktualizácii stránky. V tomto procese poskytujeme čítačkám obrazovky zmysluplné údaje pomocou súboru atribútov ARIA. Napríklad poskytujeme presné popisky formulárov; popisy pre vykonateľné ikony (ikony sociálnych médií, ikony vyhľadávania, ikony košíka atď.); pokyny na overenie vstupov formulára; role elementov ako sú tlačidlá, menu, modálne dialógy (vyskakovacie okná) a ďalšie. Okrem toho proces na pozadí skenuje všetky obrázky na stránke. Poskytuje presný a zmysluplný popis na základe identifikácie objektov na obrázku ako ALT (alternatívny text) pre nepopísané obrázky. Tiež extrahuje texty vložené do obrázka pomocou technológie OCR (optické rozpoznávanie znakov). Kedykoľvek chcete zapnúť úpravy čítačky obrazovky, stačí stlačiť kombináciu klávesov Alt+1. Používatelia čítačky obrazovky tiež dostanú automatické oznámenia na zapnutie režimu čítačky obrazovky pri vstupe na stránku. Tieto úpravy sú kompatibilné s populárnymi čítačkami obrazovky ako JAWS, NVDA, VoiceOver a TalkBack.",
+        "keyboardNavigationOptimization": "Optimalizácia klávesovej navigácie:",
+        "keyboardNavigationText": "Proces na pozadí tiež upravuje HTML na stránke a pridáva rôzne správania pomocou JavaScriptového kódu, aby bolo možné stránku ovládať klávesnicou. To zahŕňa možnosť navigovať na stránke pomocou klávesov Tab a Shift+Tab, ovládať rozbaľovacie menu šípkami, zatvárať ich pomocou Esc, spúšťať tlačidlá a odkazy pomocou Enter, navigovať medzi rádiovými tlačidlami a zaškrtávacími políčkami pomocou šípok a vyplniť ich pomocou medzerníka alebo Enter. Okrem toho používatelia klávesnice nájdu ponuky na preskočenie obsahu kedykoľvek dostupné kliknutím na Alt+2 alebo ako prvok na stránke pri navigácii klávesnicou. Proces na pozadí tiež spracováva vyskakovacie okná tým, že presunie zameranie klávesnice na ne hneď, ako sa zobrazia, a nedovolí zameraniu odísť. Používatelia môžu tiež používať skratky ako “M” (menu), “H” (nadpisy), “F” (formuláre), “B” (tlačidlá) a “G” (grafika) na preskočenie na konkrétne prvky."
+    },
+    "interfaceModel": {
+        "title": "Skryť rozhranie pre prístupnosť?",
+        "description": "Upozornenie: Ak sa rozhodnete skryť rozhranie pre prístupnosť, znova ho neuvidíte, pokiaľ nevymažete históriu prehliadača a údaje. Ste si istí, že chcete skryť rozhranie?",
+        "accept": "Akceptovať",
+        "cancel": "Zrušiť"
+    },
+    "toasterMessage": "Nastavenia Isonomy boli obnovené.",
+    "lanTitleHeading": "Izberite jezik",
+    "mainHeading": {
+        "heading": {
+            "accProfilesMain": "Profily",
+            "accContentMain": "Obsah",
+            "accColorMain": "Farba",
+            "accOrientationMain": "Orientácia",
+            "accLinkNavigatorMain": "Odkaz"
+        }
+    },
+    "profile": {
+        "proTitles": {
+            "motorImpair": "Pohybovo postihnutý",
+            "accBlind": "Nevidiaci",
+            "accClrBlind": "Farboslepý",
+            "accDylexia": "Dyslexia",
+            "accVisualImpaired": "Zrakovo postihnutý",
+            "accCogLearning": "Kognitívne a učenie",
+            "accSeizurEpileptic": "Záchvaty a epilepsia",
+            "accADHD": "ADHD"
+        }
+    },
+    "content": {
+        "contentTitles": {
+            "Tooltips": "Zobraziť tipy",
+            "FontSizing": ["Font Size", "Veľkosť písma (14px)", "Veľkosť písma(16px)", "Veľkosť písma (18px)", "Veľkosť písma (24px)"],
+            "LetterSpacing": ["Medzery medzi písmenami", "Medzery medzi písmenami(14px)", "Medzery medzi písmenami (16px)", "Medzery medzi písmenami(18px)"],
+            "TextAlignment": ["", "Zarovnať vľavo", "Zarovnať na stred", "Zarovnať vpravo", "Zarovnať do bloku"],
+            "LineHight": ["Výška riadku", "Výška riadku(2px)", "Výška riadku(4px)", "Výška riadku(6px)"],
+            "UndrerlineTitles": "Podčiarknuť nadpisy",
+            "UndrerlineLinks": "Podčiarknuť odkazy",
+            "ZoomScreen": "Priblížiť obrazovku",
+            "ReadingMode": ["Čítacia linka", "Čítacia maska"],
+            "DyslexicFont": "Písma pre dyslexiu",
+            "ReadbleFont": "Čitateľné písmo",
+            "KeyboardNav": "Navigácia klávesnicou"
+        }
+    },
+    "Color": {
+        "colorTitles": {
+            "InvertColors": ["Invertovať farby", "Svetlý kontrast", "Tmavý kontrast"],
+            "Saturation": ["Saturácia", "Nízka saturácia", "Vysoká saturácia", "Desaturácia"],
+            "Brightness": ["Jas", "Nízky jas", "Stredný jas", "Vysoký jas"]
+        }
+    },
+    "colorsSettings": {
+        "Titles": {
+            "TextColor": "Farba textu",
+            "TitleClr": "Farba nadpisu",
+            "BgClr": "Farba pozadia"
+        }
+    },
+    "orientation": {
+        "orientTitles": {
+            "DisplayCursor": ["Veľký kurzor", "Veľký biely kurzor", "Veľký čierny kurzor"],
+            "TextToSpeech": ["Text na reč", "Normálny", "Pomalý", "Rýchly"],
+            "HideImages": "Skryť obrázok",
+            "MuteSounds": "Stlmiť zvuky",
+            "StopAnimations": "Pozastaviť animácie",
+            "HighlightHover": "Zvýrazniť pri prechode",
+            "OrientReadingMode": "Režim čítania",
+            "HighlightFocus": "Zvýrazniť zameranie",
+            "VoiceNavigation": "Hlasová navigácia"
+        }
+    },
+    "linkNavigator": {
+        "links": [
+            "Vyberte odkaz na navigáciu",
+            "Preskočiť na obsah",
+            "Domov",
+            "Katalóg",
+            "Kontakt",
+            "Prihlásiť sa",
+            "Košík",
+            "Všetky pohlavia UNEEK II Convertible | Čierna/Jolly Green"
+        ]
+    },
+    "footer": {
+        "statement": "Vyhlásenie",
+        "resetSettings": "Obnoviť nastavenia",
+        "poweredBy": "Poháňané Isonomy"
+    }
+}
