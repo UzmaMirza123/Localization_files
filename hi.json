@@ -56,7 +56,8 @@
         "accept": "स्वीकार करें",
         "cancel": "रद्द करें"
     },
-    "toasterMessage": "समानता सेटिंग रीसेट कर दी गई है।",
+    "toasterMessage": "सेटिंग रीसेट!
+    ",
     "lanTitleHeading": "एक भाषा चुनें",
     "mainHeading": {
         "heading": {
