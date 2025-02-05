@@ -56,7 +56,7 @@
         "accept": "Принять",
         "cancel": "Отмена"
     },
-    "toasterMessage": "Настройки Исономи были сброшены.",
+    "toasterMessage": "Сброс настроек",
     "lanTitleHeading": "Выберите язык",
     "mainHeading": {
         "heading": {
